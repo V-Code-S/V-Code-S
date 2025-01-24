@@ -1,3 +1,4 @@
+<img src="head.png" alt="GitHub Banner" width="100%" />
 <h1>Hi 👋, I'm Virupakshi</h1>
 <p>A passionate App Developer & Freelancer </p>
 <h2>🚀 Languages and Tools I Use</h2>
