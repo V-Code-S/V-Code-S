@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Virupakshi</h1>
 <p>A passionate App Developer & Freelancer </p>
 <p> 🚀  I'm currently working on ReEnroll: Bringing Every Child Back To School 
-  Check here: https://vfornation.blogspot.com/2024/12/ReEnroll.html </p>
+ <br> Check here: https://vfornation.blogspot.com/2024/12/ReEnroll.html </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
